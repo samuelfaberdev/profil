@@ -126,11 +126,18 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 
 ## 🌍 Langues
 
-🇬🇧 Anglais : B1 (TOEIC 720) · 🇩🇪 Allemand : A2 · 🇯🇵 Japonais : A1 (en cours)
+🇬🇧 Anglais : B1 (TOEIC 720)
+🇩🇪 Allemand : A2 (niveau lycée)
+🇯🇵 Japonais : A1 (en cours du soir)
 
 ## 🎯 En dehors du code
 
-🎌 Culture japonaise (anime, manga) · 🎣 Pêche · 🌱 Permaculture et écologie · 🔬 Sciences · 👾 Retrogaming et jeux de société · 🐔 Bénévole pour la protection animale
+🎌 Culture japonaise (anime, manga) 
+🎣 Pêche 
+🌱 Permaculture et écologie 
+🔬 Sciences 
+👾 Retrogaming et jeux de société 
+🐔 Bénévole pour la protection animale
 
 ---
 
