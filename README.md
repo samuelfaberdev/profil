@@ -2,7 +2,7 @@
 <h3 align="center">Concepteur Développeur d'Applications Web et IA · Data Science</h3>
 
 <p align="center">
-  <a href="https://samuelfaber.dev/?utm_source=cv"><img src="https://img.shields.io/badge/Portfolio-samuelfaber.dev-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://samuelfaber.dev/?utm_source=github"><img src="https://img.shields.io/badge/Portfolio-samuelfaber.dev-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/samuel-faber-developpeur-web-fullstack-data-scientist-nantes/"><img src="https://img.shields.io/badge/LinkedIn-Samuel%20Faber-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:samuel.faber.dev@gmail.com"><img src="https://img.shields.io/badge/Email-samuel.faber.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -22,7 +22,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 - 🎯 **Je recherche** une **alternance (niveau 7)** ou un **CDI en Data Science** plus spécifiquement en **Data Engineering ou MLOps**
 - 📍 Région **nazairienne et nantaise**, sur site, en hybride ou en télétravail (peu importe la région)
 - 👨‍🏫 Ancien **Teaching Assistant** : j'aime transmettre et expliquer
-- 💬 Pour me contacter : [samuelfaber.dev](https://samuelfaber.dev/#contact?utm_source=cv) ou [samuel.faber.dev@gmail.com](mailto:samuel.faber.dev@gmail.com)
+- 💬 Pour me contacter : [samuelfaber.dev](https://samuelfaber.dev/#contact?utm_source=github) ou [samuel.faber.dev@gmail.com](mailto:samuel.faber.dev@gmail.com)
 
 ---
 
