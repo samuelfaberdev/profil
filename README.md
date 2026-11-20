@@ -92,7 +92,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 
 | Projet | Description | Stack |
 | --- | --- | --- |
-| 🥕 **[Master Shelf](https://github.com/samuelfaberdev/Master-Shelf)** | Projet Data Science (Le Wagon) : détection d'ingrédients sur photo (YOLO) et recommandation de recettes par plus proches voisins | Python, FastAPI, Streamlit, scikit-learn, BigQuery |
+| 🥕 **[Master Shelf](https://github.com/samuelfaberdev/Master-Shelf)** · [démo](https://mastershelf.samuelfaber.dev/) | Projet Data Science (Le Wagon) : détection d'ingrédients sur photo (YOLO) et recommandation de recettes par plus proches voisins | Python, FastAPI, Streamlit, scikit-learn, BigQuery |
 | 🔗 **[ShortURL](https://github.com/samuelfaberdev/ShortURL)** · [démo](https://smfb.me/) | Projet solo CDA : réducteur d'URL avec tableau de bord statistique | Next.js, TypeScript, GraphQL, TypeORM, PostgreSQL, Docker |
 | 🍷 **[Inovin](https://github.com/samuelfaberdev/WCS-Projet3-Inovin)** · [démo](https://inovin.samuelfaber.dev/) | Application tablette et PC pour un atelier de dégustation de vins, réalisée pour un client | React, Express, MySQL, Tailwind |
 | 🦖 **[JWBook](https://github.com/samuelfaberdev/CheckPoint4-JWBook)** · [démo](https://jwbook.samuelfaber.dev/) | Projet solo : livre-jeu dont vous êtes le héros, avec comptes et sauvegarde | React, MUI, Express, MySQL, Docker |
