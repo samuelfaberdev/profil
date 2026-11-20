@@ -132,12 +132,14 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 
 ## 🎯 En dehors du code
 
-🎌 Culture japonaise (anime, manga) 
-🎣 Pêche 
-🌱 Permaculture et écologie 
-🔬 Sciences 
-👾 Retrogaming et jeux de société 
-🐔 Bénévole pour la protection animale
+🎌 Culture japonaise (anime, manga)  
+🎣 Pêche  
+🌱 Permaculture et écologie  
+🔬 Sciences  
+👾 Retrogaming et jeux de société  
+🐔 Bénévole pour la protection animale  
+🚭 Community manager bénévole d'un groupe d'entraide à l'arrêt du tabac (+3 000 membres)  
+🎉 Community manager bénévole d'un groupe de sorties à Saint-Nazaire (+2 000 membres)
 
 ---
 
