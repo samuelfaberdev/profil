@@ -22,7 +22,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 - 🎯 **Je recherche** une **alternance (niveau 7)** ou un **CDI en Data Science** plus spécifiquement en **Data Engineering ou MLOps**
 - 📍 Région **nazairienne et nantaise**, sur site, en hybride ou en télétravail (peu importe la région)
 - 👨‍🏫 Ancien **Teaching Assistant** : j'aime transmettre et expliquer
-- 💬 Pour me contacter : [samuelfaber.dev](https://samuelfaber.dev/#contact?utm_source=github) ou [samuel.faber.dev@gmail.com](mailto:samuel.faber.dev@gmail.com)
+- 💬 Pour me contacter : [samuelfaber.dev](https://samuelfaber.dev/?utm_source=github#contact) ou [samuel.faber.dev@gmail.com](mailto:samuel.faber.dev@gmail.com)
 
 ---
 
@@ -99,7 +99,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 | 📱 **[Green Mobile](https://github.com/samuelfaberdev/WCS-Hackathon2-Team-Zagreb)** · [démo](https://zagreb.samuelfaber.dev/) | Hackathon Emmaüs Connect (~60 h) : estimation du prix de revente d'un smartphone | React, Express, MySQL, Tailwind |
 | 🏰 **[Choîxteau](https://github.com/samuelfaberdev/WCS-Hackathon1-Choixteau)** · [démo](https://choixteau-cq.netlify.app/) | Hackathon (~36 h) : un voyage princier à l'aveugle, via les API OpenTripMap et Google Maps | React, Vite, Tailwind |
 
-👉 Retrouve tous mes projets en détail sur **[samuelfaber.dev](https://samuelfaber.dev/#projets)**.
+👉 Retrouve tous mes projets en détail sur **[samuelfaber.dev](https://samuelfaber.dev/?utm_source=github#projets)**.
 
 ---
 
