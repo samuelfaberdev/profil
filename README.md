@@ -99,7 +99,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 | 📱 **[Green Mobile](https://github.com/samuelfaberdev/WCS-Hackathon2-Team-Zagreb)** · [démo](https://zagreb.samuelfaber.dev/) | Hackathon Emmaüs Connect (~60 h) : estimation du prix de revente d'un smartphone | React, Express, MySQL, Tailwind |
 | 🏰 **[Choîxteau](https://github.com/samuelfaberdev/WCS-Hackathon1-Choixteau)** · [démo](https://choixteau-cq.netlify.app/) | Hackathon (~36 h) : un voyage princier à l'aveugle, via les API OpenTripMap et Google Maps | React, Vite, Tailwind |
 
-👉 Retrouve tous mes projets en détail sur **[samuelfaber.dev](https://samuelfaber.dev/#projets)**.
+👉 Retrouve tous mes projets en détail sur **[samuelfaber.dev](https://samuelfaber.dev/?utm_source=github#projets)**.
 
 ---
 
