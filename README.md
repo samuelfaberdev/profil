@@ -137,7 +137,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelfaberdev/profil/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Animation snake de mes contributions GitHub" src="https://raw.githubusercontent.com/samuelfaberdev/profil/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelfaberdev/samuelfaberdev/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Animation snake de mes contributions GitHub" src="https://raw.githubusercontent.com/samuelfaberdev/samuelfaberdev/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
