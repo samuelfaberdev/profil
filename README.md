@@ -19,9 +19,8 @@ Après une formation initiale en **maintenance industrielle puis biomédicale**,
 
 J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data Science & AI du Wagon** (2026), sanctionné par le titre RNCP niveau 6 _Concepteur Développeur en Intelligence Artificielle et Analyse Big Data_.
 
-- 🎯 **Je recherche** une **alternance (niveau 7)** ou un **CDI en Data Science**
-- 📍 Région **nazairienne et nantaise**, sur site, en hybride ou en télétravail
-- 🧠 Mon expérience en développement **Fullstack** me sert à mettre les modèles en production
+- 🎯 **Je recherche** une **alternance (niveau 7)** ou un **CDI en Data Science** plus spécifiquement en **Data Engineering ou MLOps**
+- 📍 Région **nazairienne et nantaise**, sur site, en hybride ou en télétravail (peu importe la région)
 - 👨‍🏫 Ancien **Teaching Assistant** : j'aime transmettre et expliquer
 - 💬 Pour me contacter : [samuelfaber.dev](https://samuelfaber.dev/#contact) ou [samuel.faber.dev@gmail.com](mailto:samuel.faber.dev@gmail.com)
 
@@ -49,6 +48,16 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
+### 🐧 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
 ### 🎨 Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,16 +79,6 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🐧 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
 ### 🧰 Outils & méthodes
 
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
@@ -96,7 +95,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 | 🥕 **[Master Shelf](https://github.com/samuelfaberdev/Master-Shelf)** | Projet Data Science (Le Wagon) : détection d'ingrédients sur photo (YOLO) et recommandation de recettes par plus proches voisins | Python, FastAPI, Streamlit, scikit-learn, BigQuery |
 | 🔗 **[ShortURL](https://github.com/samuelfaberdev/ShortURL)** · [démo](https://smfb.me/) | Projet solo CDA : réducteur d'URL avec tableau de bord statistique | Next.js, TypeScript, GraphQL, TypeORM, PostgreSQL, Docker |
 | 🍷 **[Inovin](https://github.com/samuelfaberdev/WCS-Projet3-Inovin)** · [démo](https://inovin.samuelfaber.dev/) | Application tablette et PC pour un atelier de dégustation de vins, réalisée pour un client | React, Express, MySQL, Tailwind |
-| 🦖 **JWBook** · [démo](https://jwbook.samuelfaber.dev/) | Projet solo : livre-jeu dont vous êtes le héros, avec comptes et sauvegarde | React, MUI, Express, MySQL, Docker |
+| 🦖 **[JWBook](https://github.com/samuelfaberdev/CheckPoint4-JWBook)** · [démo](https://jwbook.samuelfaber.dev/) | Projet solo : livre-jeu dont vous êtes le héros, avec comptes et sauvegarde | React, MUI, Express, MySQL, Docker |
 | 📱 **[Green Mobile](https://github.com/samuelfaberdev/WCS-Hackathon2-Team-Zagreb)** · [démo](https://zagreb.samuelfaber.dev/) | Hackathon Emmaüs Connect (~60 h) : estimation du prix de revente d'un smartphone | React, Express, MySQL, Tailwind |
 | 🏰 **[Choîxteau](https://github.com/samuelfaberdev/WCS-Hackathon1-Choixteau)** · [démo](https://choixteau-cq.netlify.app/) | Hackathon (~36 h) : un voyage princier à l'aveugle, via les API OpenTripMap et Google Maps | React, Vite, Tailwind |
 
@@ -109,7 +108,7 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 - 🤖 **Titre RNCP niveau 6, Concepteur Développeur en IA et Analyse Big Data** (option Data Science) · [Le Wagon](https://www.lewagon.com/fr) · 2026
 - 💻 **Titre RNCP niveau 6, Concepteur Développeur d'Applications** · [Wild Code School](https://wildcodeschool.fr/) · 2023 - 2024
 - 🌐 **Titre RNCP niveau 5, Développeur Web et Web Mobile** · [Wild Code School](https://wildcodeschool.fr/) · 2023
-- 🏥 **Licence Pro Ingénierie et Maintenance Biomédicales** · IUT de Lorient
+- 🏥 **Licence Pro Ingénierie et Maintenance Biomédicales** · IUT de Lorient · 2008 - 2009
 - ⚙️ **DUT Génie Industriel et Maintenance** · IUT de Saint-Nazaire · 2005 - 2007
 
 ## 💼 Expériences
