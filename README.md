@@ -126,20 +126,20 @@ J'ai ensuite poursuivi vers la **Data Science et l'IA** avec le **Bootcamp Data 
 
 ## 🌍 Langues
 
-🇬🇧 Anglais : B1 (TOEIC 720)
-🇩🇪 Allemand : A2 (niveau lycée)
-🇯🇵 Japonais : A1 (en cours du soir)
+🇬🇧 Anglais : B1 (TOEIC 720)  
+🇩🇪 Allemand : A2 (niveau lycée)  
+🇯🇵 Japonais : A1 (en cours du soir)  
 
 ## 🎯 En dehors du code
 
-🎌 Culture japonaise (anime, manga)  
-🎣 Pêche  
+🎌 Culture japonaise, anime & manga  
+🎣 Pêche en mer et en eau douce  
 🌱 Permaculture et écologie  
 🔬 Sciences  
-👾 Retrogaming et jeux de société  
-🐔 Bénévole pour la protection animale  
-🚭 Community manager bénévole d'un groupe d'entraide à l'arrêt du tabac (+3 000 membres)  
-🎉 Community manager bénévole d'un groupe de sorties à Saint-Nazaire (+2 000 membres)
+👾 Retrogaming et jeux de société - Co-Leader de la guilde Blitzerg sur Dofus 3  
+🐔 Bénévole pour la protection animale avec l'association [Les Caquetteuses](https://lescaquetteuses.fr/)  
+🚭 Community manager bénévole d'un [groupe d'entraide à l'arrêt du tabac](https://www.facebook.com/groups/GBEM.StopTabac) (+3 000 membres)  
+🎉 Community manager bénévole d'un [groupe de sorties à Saint-Nazaire](https://www.facebook.com/groups/evetsostnaz) (+2 000 membres)
 
 ---
 
